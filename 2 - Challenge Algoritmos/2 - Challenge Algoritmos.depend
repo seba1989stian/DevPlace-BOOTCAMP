@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647959819 source:e:\codeblocks - challenge\2 - challenge algoritmos\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

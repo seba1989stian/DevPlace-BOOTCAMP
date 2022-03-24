@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648038677 source:e:\codeblocks - challenge\4 - challenge algoritmos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
